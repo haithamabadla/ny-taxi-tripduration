@@ -6,7 +6,7 @@ Pass pickup and drop-off latitude and longitude points to https://ny-trip-durati
 
 API will return the following in dictionary format:
 
-1- Date 
+1- Date <br>
 2- Time 
 3- Descriptive addresses for both From/ To 
 4- Weather information - does it snow? does it rain? 
