@@ -7,10 +7,9 @@ Pass pickup and drop-off latitude and longitude points to https://ny-trip-durati
 API will return the following in dictionary format:
 
 1- Date <br>
-2- Time 
-3- Descriptive addresses for both From/ To 
-4- Weather information - does it snow? does it rain? 
-5- Whether the trip in a weekend or a weekday 
-6- Whether the trip is during rush hours or not. 
-7- Predicted trip duration
-
+2- Time <br>
+3- Descriptive addresses for both From/ To <br>
+4- Weather information - does it snow? does it rain? <br>
+5- Whether the trip in a weekend or a weekday <br>
+6- Whether the trip is during rush hours or not. <br>
+7- Predicted trip duration <br>
