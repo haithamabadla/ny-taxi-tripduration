@@ -1,5 +1,4 @@
-# ny-taxi-tripduration
-
+# New York Taxi Trip Duration Prediction
 The aim of this project is to predict New York taxi trip duration. Model was trained on 750,000 record, evaluated on 350,000 and tested on 150,000 records using Keras/ Tensorflow
 
 Pass pickup and drop-off latitude and longitude points to https://ny-trip-duration-flaskapi.herokuapp.com/parameters?points=[POINTS] - i.e. https://ny-trip-duration-flaskapi.herokuapp.com/parameters?points=40.719158,-73.981743,40.829182,-73.938828
