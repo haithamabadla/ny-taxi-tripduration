@@ -3,7 +3,7 @@ gunicorn==19.9.0
 Flask==1.1.1
 joblib==0.14.1
 requests==2.22.0
-tensorflow==2.0.0a0
+tensorflow==2.5.0rc0
 scikit-learn==0.22
 geopy==1.21.0
 pytz==2019.3
